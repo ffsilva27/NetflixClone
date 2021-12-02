@@ -62,6 +62,7 @@ export class LoginComponent implements OnInit {
     if(this.father.invalid){
       Object.keys(this.father.controls).forEach(camps=>{
         const camp = this.father.get(camps)
+        this.phoneError = true;
         camp?.markAllAsTouched();
       })
       return true;
