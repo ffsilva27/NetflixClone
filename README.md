@@ -19,7 +19,13 @@ Para esta atividade fomos divididos em squads com 5 pessoas cada, onde tivemos a
 [Antônio MRH](https://github.com/AntonioMRH) , 
 [Felipe Garé](https://github.com/FelipeRodriguesGare) , 
 [Vitor Zillig](https://github.com/VitorZillig) , 
-[Dominik Marcone](https://github.com/domynikmv057) , 
+[Dominik Marcone](https://github.com/domynikmv057) .
+
+[![Vídeo utilizando as funcionalidades da aplicação](/Capturar.PNG)](https://www.youtube.com/watch?v=EWJdUOEEXss)
+
+### Obs.: Clicando na imagem você será redirecionado para assistir o projeto funcionando.
+
+___________________________________________________________________________________________________________________________________________________________________________
 
 ### Netflix
 
