@@ -23,7 +23,7 @@ Para esta atividade fomos divididos em squads com 5 pessoas cada, onde tivemos a
 
 [![Vídeo utilizando as funcionalidades da aplicação](/Capturar.PNG)](https://www.youtube.com/watch?v=EWJdUOEEXss)
 
-### Obs.: Clicando na imagem você será redirecionado para assistir o projeto funcionando.
+### Obs.: Clicando na imagem você será direcionado para assistir o projeto funcionando.
 
 ___________________________________________________________________________________________________________________________________________________________________________
 
