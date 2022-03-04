@@ -13,6 +13,8 @@ Para esta atividade fomos divididos em squads com 5 pessoas cada, onde tivemos a
  - Desenvolvimento do modal, onde surge com base no filme/serie selecionado;
  - Responsividade para celular.
 
+### Deploy no heroku - https://netflix-clone-gare.herokuapp.com/
+
 ### Desenvolvedores:
 
 [Filipe Silva](https://github.com/ffsilva27) , 
